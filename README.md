@@ -19,8 +19,8 @@ npm install packageName
 # yarn
 yarn add packageName
 
-# pnpm
-pnpm install packageName
+# yarn
+yarn install packageName
 
 # bun
 bun install packageName
@@ -41,8 +41,8 @@ const {} = require("packageName");
 - Clone this repository
 - Install latest LTS version of [Node.js](https://nodejs.org/en/)
 - Enable [Corepack](https://github.com/nodejs/corepack) using `corepack enable`
-- Install dependencies using `pnpm install`
-- Run interactive tests using `pnpm dev`
+- Install dependencies using `yarn install`
+- Run interactive tests using `yarn dev`
 
 ## License
 
